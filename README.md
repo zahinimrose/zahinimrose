@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zahinimrose. I am majoring in Computer Science and Engineering at the Bangladesh University of Engineering and Technology(BUET) as part of the CSE-22 batch.  
-- 👀 I’m interested in learning all things computer science. Specifically, I am interested in theoretical CS, machine learning, physics simulations, and computer hardware engineering. 
+- 👋 Hi, I’m @zahinimrose. I am majoring in CSE at BUET(CSE-22 batch).  
+- 👀 I’m currently exploring and trying out different things in CSE. 
 - 📫 How to reach me: Email: imrosezahin@gmail.com
 
 <!---
